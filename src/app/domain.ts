@@ -20,7 +20,19 @@ async function domain() {
         "https://rrcce11ma20.shop/",
         "https://t1ce2ma.shop/",
         "https://cdn1.t4ce4ma.shop/",
-        "https://cdn3.t4ce4ma.shop/"
+        "https://cdn2.t4ce4ma.shop/",
+        "https://cdn3.t4ce4ma.shop/",
+        "https://cdn4.t4ce4ma.shop/",
+        "https://cdn5.t4ce4ma.shop/",
+        "https://cdn6.t4ce4ma.shop/",
+        "https://cdn7.t4ce4ma.shop/",
+        "https://cdn8.t4ce4ma.shop/",
+        "https://cdn9.t4ce4ma.shop/",
+        "https://cdn10.t4ce4ma.shop/",
+        "https://cdn11.t4ce4ma.shop/",
+        "https://cdn12.t4ce4ma.shop/",
+        "https://cdn13.t4ce4ma.shop/",
+        "https://cdn14.t4ce4ma.shop/"
     ];
 
     let successDomain = null;
